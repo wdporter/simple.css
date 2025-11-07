@@ -48,6 +48,7 @@
 /* Reset box-sizing */
 *, *::before, *::after {
   box-sizing: border-box;
+  font-variant: no-common-ligatures;
 }
 
 /* Reset default appearance */
